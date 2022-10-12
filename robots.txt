@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mconeill0.github.io/welcome_to_paradise/sitemap.xml

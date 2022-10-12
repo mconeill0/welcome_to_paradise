@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Digital Storytelling Publii Adventure</title>
+    <link href="https://mconeill0.github.io/welcome_to_paradise/feed.xml" rel="self" />
+    <link href="https://mconeill0.github.io/welcome_to_paradise" />
+    <updated>2022-10-12T10:41:08-07:00</updated>
+    <author>
+        <name>Mo</name>
+    </author>
+    <id>https://mconeill0.github.io/welcome_to_paradise</id>
+
+    <entry>
+        <title>Meet the Project Team</title>
+        <author>
+            <name>Mo</name>
+        </author>
+        <link href="https://mconeill0.github.io/welcome_to_paradise/meet-the-project-team.html"/>
+        <id>https://mconeill0.github.io/welcome_to_paradise/meet-the-project-team.html</id>
+
+        <updated>2022-10-12T10:41:08-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://mconeill0.github.io/welcome_to_paradise/media/posts/2/fall-2.jpeg" alt="" />
+                    Hello! We are two students of public policy at UCLA. Maura &amp; Aditi :) We are ready to build sites!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://mconeill0.github.io/welcome_to_paradise/media/posts/2/fall-2.jpeg" alt="" />
+                <p>Hello! We are two students of public policy at UCLA. Maura &amp; Aditi :) We are ready to build sites! </p>
+<h1>Maura </h1>
+<h2>Principal site builder</h2>
+<figure class="post__image"><img loading="lazy"  src="https://mconeill0.github.io/welcome_to_paradise/media/posts/2//PXL_20211128_000514735_Original.jpg" sizes="100vw" srcset="https://mconeill0.github.io/welcome_to_paradise/media/posts/2//responsive/PXL_20211128_000514735_Original-xs.jpg 300w ,https://mconeill0.github.io/welcome_to_paradise/media/posts/2//responsive/PXL_20211128_000514735_Original-sm.jpg 480w ,https://mconeill0.github.io/welcome_to_paradise/media/posts/2//responsive/PXL_20211128_000514735_Original-md.jpg 768w ,https://mconeill0.github.io/welcome_to_paradise/media/posts/2//responsive/PXL_20211128_000514735_Original-lg.jpg 1024w ,https://mconeill0.github.io/welcome_to_paradise/media/posts/2//responsive/PXL_20211128_000514735_Original-xl.jpg 1360w ,https://mconeill0.github.io/welcome_to_paradise/media/posts/2//responsive/PXL_20211128_000514735_Original-2xl.jpg 1600w"  alt="Photo of Zion" width="332" height="250"></figure>
+<h1>Aditi</h1>
+<h2>Secondary site builder</h2>
+<figure class="post__image"><img loading="lazy"  src="https://mconeill0.github.io/welcome_to_paradise/media/posts/2//fall.jpeg" sizes="100vw" srcset="https://mconeill0.github.io/welcome_to_paradise/media/posts/2//responsive/fall-xs.jpeg 300w ,https://mconeill0.github.io/welcome_to_paradise/media/posts/2//responsive/fall-sm.jpeg 480w ,https://mconeill0.github.io/welcome_to_paradise/media/posts/2//responsive/fall-md.jpeg 768w ,https://mconeill0.github.io/welcome_to_paradise/media/posts/2//responsive/fall-lg.jpeg 1024w ,https://mconeill0.github.io/welcome_to_paradise/media/posts/2//responsive/fall-xl.jpeg 1360w ,https://mconeill0.github.io/welcome_to_paradise/media/posts/2//responsive/fall-2xl.jpeg 1600w"  alt="Fall " width="332" height="250"></figure>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
